@@ -1,3 +1,3 @@
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,matlab,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=matlab,python,mysql,js,html,css,git,github,powershell)](https://skillicons.dev)

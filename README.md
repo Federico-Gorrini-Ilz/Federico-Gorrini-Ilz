@@ -27,6 +27,6 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.simpleicons.org/github/6e6e6e" width="50"/>
+  <img src="https://cdn.simpleicons.org/github-original-wordmark/6e6e6e" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="50"/>
 </p>

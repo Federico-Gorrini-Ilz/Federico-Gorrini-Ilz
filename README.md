@@ -11,7 +11,7 @@
 -->
 
 <!-- Backend / Scientific -->
-Backend / Scientific
+Backend / Engineering
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>

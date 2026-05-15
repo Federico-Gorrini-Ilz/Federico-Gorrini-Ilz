@@ -18,9 +18,14 @@ DevOps / Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.simpleicons.org/github/F0F0F0" width="50"/>
+
+  <!-- GitHub (skillicons.dev) -->
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="50"/>
 </p>
+
+
 
 
 

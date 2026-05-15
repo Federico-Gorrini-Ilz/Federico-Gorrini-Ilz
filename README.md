@@ -18,7 +18,7 @@ DevOps / Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.simpleicons.org/github/E0E0E0" width="50"/>
+  <img src="https://cdn.simpleicons.org/github/F0F0F0" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="50"/>
 </p>
 

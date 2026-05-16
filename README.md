@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=matlab,python&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=matlab,python,mysql&theme=dark&perline=10" />
   </a>
 </p>
 <p align="center">

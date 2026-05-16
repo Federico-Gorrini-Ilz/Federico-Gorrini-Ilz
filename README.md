@@ -3,11 +3,10 @@
 -->
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=matlab,python,mysql&theme=dark&perline=10" />
-    <img src="assets/msexcel.svg" width="48" />
-    <img src="assets/powerbi.svg" width="48" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matlab,python,mysql&theme=dark&perline=10" /></a>
+
+  <img src="assets/msexcel.svg" width="48" />
+  <img src="assets/powerbi.svg" width="48" />
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
